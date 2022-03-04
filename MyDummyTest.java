@@ -22,3 +22,4 @@ public class MyDummyTest {
     }
 
 }
+#fin de l'script
